@@ -12,7 +12,9 @@ And my favorite code in python (~~I'm sorry, but python is so good to use~~):
 while (1):
     print("Hello world!")
 ```
-    
+   
+By the way, if you feel this is boring and want to visit the end of this page: [Jump Here](https://github.com/f6zhang/CSE110Lab1/blob/gh-pages/index.md#i-know-this-is-boring)
+
 ## I Know this is boring
 
 Here is the [documentation of Swift](https://swift.org/documentation/). Here is the icon. ![icon of Swift](Swift.png)
